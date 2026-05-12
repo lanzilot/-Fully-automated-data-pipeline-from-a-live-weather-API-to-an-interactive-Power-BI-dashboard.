@@ -9,3 +9,5 @@
     Visualise - Power BI connects via DirectQuery to CLEAN_WEATHER. Live dashboard shows 
     latest temperature (KPI) and historical trend
 
+Automation:
+Create a Task scheduler in windows
